@@ -1,0 +1,32 @@
+{
+  "name": "citypress-council",
+  "version": "0.0.1",
+  "authors": [
+    "Ultra Comunicação <ti@ultracomunica.com.br>"
+  ],
+  "description": "CityPress Council - Wordpress Theme for City/Town Councils",
+  "main": "index.php",
+  "keywords": [
+    "citypress",
+    "city",
+    "council",
+    "wordpress",
+    "theme",
+    "city",
+    "council",
+    "theme"
+  ],
+  "license": "GPLv2",
+  "homepage": "http://ultracomunica.com.br/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "flat-ui-official": "~2.1.3"
+  }
+}

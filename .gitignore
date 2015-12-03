@@ -1,0 +1,4 @@
+*.prefs
+bower_components/
+.ftpquota
+error_log

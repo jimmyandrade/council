@@ -1,0 +1,1108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultracomunica/citypress-council\n"
+"POT-Creation-Date: 2014-10-24 12:07-0300\n"
+"PO-Revision-Date: 2014-10-24 12:07-0300\n"
+"Last-Translator: Paulo H. (Jimmy) Andrade Mota C. <ti@ultracomunica.com.br>\n"
+"Language-Team: Paulo H. (Jimmy) Andrade Mota C. <ti@ultracomunica.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../camaraminasnovas/404.php:7
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: ../camaraminasnovas/404.php:8 ../citypress-council/404.php:6
+msgid "Search this site"
+msgstr "Pesquisar neste site"
+
+#: ../camaraminasnovas/archive-law.php:11
+#: ../citypress-council/sidebar-advanced-search.php:13
+msgid "Laws"
+msgstr "Legislações"
+
+#: ../camaraminasnovas/archive-law.php:27
+#: ../camaraminasnovas/archive-meeting.php:22
+#: ../camaraminasnovas/archive-notice.php:34
+#: ../camaraminasnovas/archive-statement.php:27
+#: ../camaraminasnovas/archive.php:27 ../camaraminasnovas/category.php:18
+#: ../camaraminasnovas/search-law.php:45 ../camaraminasnovas/search.php:24
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+#: ../camaraminasnovas/archive-law.php:28
+#: ../camaraminasnovas/archive-meeting.php:23
+#: ../camaraminasnovas/archive-notice.php:35
+#: ../camaraminasnovas/archive-statement.php:28
+#: ../camaraminasnovas/archive.php:28 ../camaraminasnovas/category.php:19
+#: ../camaraminasnovas/search-law.php:51 ../camaraminasnovas/search.php:25
+msgid "Please, try again"
+msgstr "Por favor, tente novamente"
+
+#: ../camaraminasnovas/archive-meeting.php:9
+#: ../camaraminasnovas/page-meetings.php:13
+msgid "Meetings"
+msgstr "Reuniões"
+
+#: ../camaraminasnovas/archive-notice.php:11
+msgid "Notices"
+msgstr "Editais"
+
+#: ../camaraminasnovas/archive-notice.php:15
+msgid "Notice number"
+msgstr "Número do edital"
+
+#: ../camaraminasnovas/archive-notice.php:16
+msgid "Notice type"
+msgstr "Tipo de edital"
+
+#: ../camaraminasnovas/archive-notice.php:18
+#: ../camaraminasnovas/widget-notices-search.php:70
+msgid "Submission deadline"
+msgstr "Entrega da proposta até"
+
+#: ../camaraminasnovas/archive-notice.php:19
+#: ../camaraminasnovas/widget-notices-search.php:80
+#: ../citypress-council/src/citypress/metaboxes/notice-meta.php:50
+#: ../citypress-council/src/citypress/metaboxes/notice-meta.php:54
+msgid "Opening date"
+msgstr "Data de abertura"
+
+#: ../camaraminasnovas/archive-statement.php:9
+msgid "Statements"
+msgstr "Indicações"
+
+#: ../camaraminasnovas/archive.php:4
+msgid "Archive"
+msgstr "Arquivo"
+
+#: ../camaraminasnovas/author.php:18
+#, php-format
+msgid "Statements made by %s"
+msgstr "Indicações feitas por %s"
+
+#: ../camaraminasnovas/front-page.php:14
+msgid "Featured"
+msgstr "Destaques"
+
+#: ../camaraminasnovas/front-page.php:31
+#: ../camaraminasnovas/widget-last-meetings.php:78
+msgid "City Council TV"
+msgstr "TV Câmara"
+
+#: ../camaraminasnovas/front-page.php:68
+msgid "Latest news"
+msgstr "Últimas notícias"
+
+#: ../camaraminasnovas/header-single.php:3
+msgid "Edit Meeting"
+msgstr "Editar reunião"
+
+#: ../camaraminasnovas/header-single.php:5
+msgid "Edit Statement"
+msgstr "Editar indicação"
+
+#: ../camaraminasnovas/header-single.php:7
+#: ../camaraminasnovas/loop-search.php:56
+msgid "Edit This"
+msgstr "Editar isso"
+
+#: ../camaraminasnovas/header-single.php:23
+msgid " &mdash; "
+msgstr " &mdash; "
+
+#: ../camaraminasnovas/header-single.php:27
+msgid "This meeting happened on "
+msgstr "Esta reunião aconteceu em "
+
+#: ../camaraminasnovas/loop-councilor-president.php:18
+msgid "Acting President"
+msgstr "Presidente em exercício"
+
+#: ../camaraminasnovas/loop-councilor-tiny.php:17
+msgid "(President)"
+msgstr "(Presidente)"
+
+#: ../camaraminasnovas/loop-councilor-tiny.php:19
+msgid "(Vice-President)"
+msgstr "(Vice-Presidente)"
+
+#: ../camaraminasnovas/loop-councilor-tiny.php:21
+msgid "(Secretary)"
+msgstr "(Secretário(a))"
+
+#: ../camaraminasnovas/loop-councilor.php:3
+#, php-format
+msgid "View projects and actions of %s"
+msgstr "Ver projetos e ações de %s"
+
+#: ../camaraminasnovas/loop-councilor.php:4
+#, php-format
+msgid "See nominations of %s"
+msgstr "Ver indicações de %s"
+
+#: ../camaraminasnovas/loop-councilor.php:5
+#, php-format
+msgid "Latest news about %s"
+msgstr "Últimas notícias de %s"
+
+#: ../camaraminasnovas/loop-councilor.php:19
+msgid "Votes:"
+msgstr "Votos:"
+
+#: ../camaraminasnovas/loop-councilor.php:20
+msgid "Birthday:"
+msgstr "Data de nascimento:"
+
+#: ../camaraminasnovas/loop-councilor.php:21
+msgid "Place of Birth:"
+msgstr "Naturalidade:"
+
+#: ../camaraminasnovas/loop-councilor.php:22
+msgid "Phone:"
+msgstr "Telefone:"
+
+#: ../camaraminasnovas/loop-councilor.php:28
+msgid "View nominations of this councilor"
+msgstr "Ver indicações deste vereador"
+
+#: ../camaraminasnovas/loop-councilor.php:33
+msgid "View projects and actions of this councilor"
+msgstr "Ver projetos e ações deste vereador"
+
+#: ../camaraminasnovas/loop-councilor.php:38
+msgid "Latest news about this councilor"
+msgstr "Últimas notícias deste vereador"
+
+#: ../camaraminasnovas/loop-page.php:31 ../camaraminasnovas/loop-single.php:46
+#: ../camaraminasnovas/pdf.php:28
+msgid "Download this document"
+msgstr "Baixar este documento"
+
+#: ../camaraminasnovas/loop-search.php:41
+msgid "Watch the video in full"
+msgstr "Ver vídeo na íntegra"
+
+#: ../camaraminasnovas/loop-search.php:42
+msgid "Full video"
+msgstr "Vídeo na íntegra"
+
+#: ../camaraminasnovas/loop-search.php:46
+msgid "Listen to audio"
+msgstr "Ouvir o áudio"
+
+#: ../camaraminasnovas/loop-search.php:47
+msgid "Listen"
+msgstr "Ouvir"
+
+#: ../camaraminasnovas/loop-search.php:59
+msgid "Read more"
+msgstr "Leia mais"
+
+#: ../camaraminasnovas/loop-single.php:4
+msgid "Listen to the meeting audio only"
+msgstr "Ouça apenas o áudio da reunião"
+
+#: ../camaraminasnovas/loop-single.php:4
+msgid "Listen to the audio only"
+msgstr "Ouça apenas o áudio"
+
+#: ../camaraminasnovas/loop-single.php:5
+msgid "Download this meeting audio"
+msgstr "Baixar o áudio desta reunião"
+
+#: ../camaraminasnovas/loop-single.php:5
+msgid "Download this audio"
+msgstr "Baixar este áudio"
+
+#: ../camaraminasnovas/loop-single.php:16
+msgid "Watch full video"
+msgstr "Assista ao vídeo na íntegra"
+
+#: ../camaraminasnovas/loop-single.php:61
+msgid "About the author of this statement"
+msgstr "Sobre o(a) autor(a) desta indicação"
+
+#: ../camaraminasnovas/loop-single.php:63
+msgid "About the author"
+msgstr "Sobre o(a) autor(a)"
+
+#: ../camaraminasnovas/page-committees.php:5
+msgid "Committees Page"
+msgstr "Comissões"
+
+#: ../camaraminasnovas/page-committees.php:29
+#, php-format
+msgid "View all people under %s"
+msgstr "Ver todas as pessoas em %s"
+
+#: ../camaraminasnovas/page-councilors.php:5
+msgid "Councilors Page"
+msgstr "Vereadores"
+
+#: ../camaraminasnovas/page-councilors.php:6
+#: ../camaraminasnovas/page-former-councilors.php:7
+#: ../camaraminasnovas/taxonomy-legislature.php:5
+#, php-format
+msgid "%s Legislature"
+msgstr "Legislatura %s"
+
+#: ../camaraminasnovas/page-current-councilors.php:5
+msgid "Current Councilors Page"
+msgstr "Vereadores atuais"
+
+#: ../camaraminasnovas/page-current-councilors.php:7
+#, php-format
+msgid "Current Legislature (%s)"
+msgstr "Legislatura atual (%s)"
+
+#: ../camaraminasnovas/page-events.php:5
+msgid "Events Page"
+msgstr "Eventos"
+
+#: ../camaraminasnovas/page-events.php:27
+msgid "No Event found"
+msgstr "Nenhum evento encontrado"
+
+#: ../camaraminasnovas/page-former-councilors.php:6
+msgid "Former Councilors Page"
+msgstr "Vereadores antigos"
+
+#: ../camaraminasnovas/page-former-councilors.php:33
+msgid "Former Legislatures"
+msgstr "Legislaturas anteriores"
+
+#: ../camaraminasnovas/page-meetings.php:5
+msgid "Meetings Page"
+msgstr "Reuniões"
+
+#: ../camaraminasnovas/page-parent.php:5
+msgid "Parent Page"
+msgstr "Página-mãe"
+
+#: ../camaraminasnovas/page-positions.php:5
+msgid "Positions Page"
+msgstr "Departamentos"
+
+#: ../camaraminasnovas/page-statements.php:5
+msgid "Statements Page"
+msgstr "Indicações"
+
+#: ../camaraminasnovas/page.php:26
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: ../camaraminasnovas/page.php:27
+msgid "Sorry! We could not find anything to show in this page."
+msgstr "Desculpe-nos: não foi possível encontrar nada para exibir nesta página"
+
+#: ../camaraminasnovas/search-law.php:5
+msgid "Law Search Results Page"
+msgstr "Resultados da pesquisa de Legislações"
+
+#: ../camaraminasnovas/search-law.php:18 ../camaraminasnovas/search.php:12
+msgid "Search results"
+msgstr "Resultados da pesquisa"
+
+#: ../camaraminasnovas/search-law.php:22
+msgid "You are looking for Laws with any subject or number"
+msgstr "Você está procurando por leis com qualquer assunto ou número"
+
+#: ../camaraminasnovas/search-law.php:24
+#, php-format
+msgid "You are looking for Laws that contains %s in its number"
+msgstr "Você está procurando por leis que possuam %s em seu número"
+
+#: ../camaraminasnovas/search-law.php:26
+#, php-format
+msgid "You are looking for Laws that contains %s in its number or subject"
+msgstr "Você está procurando por leis que possuam %s em seu número ou assunto"
+
+#: ../camaraminasnovas/search-law.php:28
+#, php-format
+msgid "You are looking for Laws that contains %s in its subject"
+msgstr "Você está procurando por leis que possuam %s em seu assunto"
+
+#: ../camaraminasnovas/search-law.php:42
+msgid "Make another search"
+msgstr "Fazer outra pesquisa"
+
+#: ../camaraminasnovas/searchform.php:10
+msgid "Search:"
+msgstr "Pesquisar:"
+
+#: ../camaraminasnovas/searchform.php:17 ../camaraminasnovas/searchform.php:19
+msgid "Search this site&hellip;"
+msgstr "Pesquisar neste site&hellip;"
+
+#: ../camaraminasnovas/searchform.php:24
+#: ../camaraminasnovas/widget-laws-search.php:116
+#: ../camaraminasnovas/widget-laws-search.php:121
+#: ../camaraminasnovas/widget-notices-search.php:94
+#: ../camaraminasnovas/widget-notices-search.php:99
+#: ../citypress-council/searchform.php:12
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:61
+msgid "Header sidebar"
+msgstr "Barra lateral do cabeçalho"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:65
+msgid "Default sidebar"
+msgstr "Barra lateral padrão"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:73
+msgid "Sidebar for single content"
+msgstr "Barra lateral para conteúdo"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:81
+msgid "Front page bottom left sidebar"
+msgstr "Barra esquerda inferior da home"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:89
+msgid "Newsletter call-to-action"
+msgstr "Chamada para Newsletter"
+
+#: ../camaraminasnovas/src/camaraminasnovas/theme.php:91
+msgid "Place your preferred newsletter here. We recommend MailPoet."
+msgstr "Coloque seu newsletter preferido aqui. Nós recomendamos o MailPoet."
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:8
+msgid "Breadcrumb Widget"
+msgstr "Barra de migalhas"
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:9
+msgid "Show website breadcrumbs navigation."
+msgstr "Exibe a navegação do site em formato de migalhas"
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:16
+#, php-format
+msgid "Archive for %s"
+msgstr "Arquivo para %s"
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:25
+msgid "Home"
+msgstr "Início"
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:68
+msgid "Author archive"
+msgstr "Arquivo do(a) autor(a)"
+
+#: ../camaraminasnovas/widget-breadcrumbs.php:70
+msgid "Search Results"
+msgstr "Resultados da pesquisa"
+
+#: ../camaraminasnovas/widget-children-pages.php:8
+msgid "Children Pages Widget"
+msgstr "Widget de subpáginas"
+
+#: ../camaraminasnovas/widget-children-pages.php:9
+msgid "List child pages of current page."
+msgstr "Lista as páginas filhas da página atual."
+
+#: ../camaraminasnovas/widget-current-councilors.php:7
+msgid "Current councilors widget"
+msgstr "Vereadores atuais"
+
+#: ../camaraminasnovas/widget-current-councilors.php:7
+msgid "Shows current councilors."
+msgstr "Exibe os vereadores atuais."
+
+#: ../camaraminasnovas/widget-current-councilors.php:34
+msgid "Councilors"
+msgstr "Vereadores"
+
+#: ../camaraminasnovas/widget-current-councilors.php:37
+msgid "Current legislature"
+msgstr "Legislatura atual"
+
+#: ../camaraminasnovas/widget-footer-website-info.php:7
+msgid "Footer website info widget"
+msgstr "Informações do site (para rodapé)"
+
+#: ../camaraminasnovas/widget-footer-website-info.php:7
+msgid ""
+"Shows website info (name, address, telephone, email). Place it on footer."
+msgstr ""
+"Exibe as informações do site (nome, endereço, telefone, e-mail). Ideal para "
+"rodapé."
+
+#: ../camaraminasnovas/widget-last-meetings.php:7
+msgid "Last Meetings widget"
+msgstr "Últimas reuniões"
+
+#: ../camaraminasnovas/widget-last-meetings.php:7
+msgid "Shows last meetings"
+msgstr "Exibe as últimas reuniões"
+
+#: ../camaraminasnovas/widget-last-meetings.php:45
+msgid "(watch the video)"
+msgstr "(assista ao vídeo)"
+
+#: ../camaraminasnovas/widget-last-meetings.php:60
+msgid "Watch the latest meetings"
+msgstr "Exibe as últimas reuniões"
+
+#: ../camaraminasnovas/widget-last-meetings.php:88
+msgid "Title:"
+msgstr "Título:"
+
+#: ../camaraminasnovas/widget-last-meetings.php:101
+msgid "Show audios link:"
+msgstr "Exibir link para áudios:"
+
+#: ../camaraminasnovas/widget-laws-search.php:7
+msgid "Laws Search widget"
+msgstr "Pesquisar legislação"
+
+#: ../camaraminasnovas/widget-laws-search.php:7
+msgid "Shows law advanced search form"
+msgstr "Exibe formulário de pesquisa avançada de leis"
+
+#: ../camaraminasnovas/widget-laws-search.php:16
+msgid "Search Laws"
+msgstr "Pesquisar Legislação"
+
+#: ../camaraminasnovas/widget-laws-search.php:47
+#: ../camaraminasnovas/widget-laws-search.php:50
+#: ../camaraminasnovas/widget-laws-search.php:52
+msgid "Number or subject"
+msgstr "Número ou assunto"
+
+#: ../camaraminasnovas/widget-laws-search.php:60
+msgid "Period from"
+msgstr "Período de"
+
+#: ../camaraminasnovas/widget-laws-search.php:70
+msgid "to"
+msgstr "a"
+
+#: ../camaraminasnovas/widget-laws-search.php:82
+msgid "Law Type"
+msgstr "Tipo de Lei"
+
+#: ../camaraminasnovas/widget-laws-search.php:89
+msgid "All types"
+msgstr "Todos os tipos"
+
+#: ../camaraminasnovas/widget-laws-search.php:97
+msgid "Law Category"
+msgstr "Categoria de Lei"
+
+#: ../camaraminasnovas/widget-laws-search.php:104
+#: ../camaraminasnovas/widget-notices-search.php:61
+msgid "All categories"
+msgstr "Todas as categorias"
+
+#: ../camaraminasnovas/widget-laws-search.php:117
+#: ../camaraminasnovas/widget-notices-search.php:95
+msgid "Please wait&hellip;"
+msgstr "Por favor, aguarde&hellip;"
+
+#: ../camaraminasnovas/widget-live.php:7
+msgid "Live Widget"
+msgstr "Ao vivo"
+
+#: ../camaraminasnovas/widget-live.php:7
+msgid "Shows live meeting player on site."
+msgstr "Exibe um player da reunião ao vivo."
+
+#: ../camaraminasnovas/widget-live.php:23
+msgid "On air"
+msgstr "No ar"
+
+#: ../camaraminasnovas/widget-live.php:40
+msgid "Live meeting"
+msgstr "Reunião on-line"
+
+#: ../camaraminasnovas/widget-live.php:65
+msgid "Past meetings"
+msgstr "Reuniões passadas"
+
+#: ../camaraminasnovas/widget-live.php:68
+msgid "Access audios"
+msgstr "Acessar áudios"
+
+#: ../camaraminasnovas/widget-notices-search.php:7
+msgid "Notices Search widget"
+msgstr "Pesquisa de editais"
+
+#: ../camaraminasnovas/widget-notices-search.php:7
+msgid "Show notice advanced search form"
+msgstr "Exibe um formulário de pesquisa de editais"
+
+#: ../camaraminasnovas/widget-notices-search.php:16
+msgid "Search Notices"
+msgstr "Pesquisar editais"
+
+#: ../camaraminasnovas/widget-notices-search.php:43
+msgid "Notice number or year"
+msgstr "Número ou ano do edital"
+
+#: ../camaraminasnovas/widget-notices-search.php:46
+#: ../camaraminasnovas/widget-notices-search.php:48
+msgid "Number or year"
+msgstr "Número ou ano"
+
+#: ../camaraminasnovas/widget-notices-search.php:54
+msgid "Notice Category"
+msgstr "Categoria de edital"
+
+#: ../camaraminasnovas/widget-transparencia-banner.php:7
+msgid "Transparencia Banner Widget"
+msgstr "Banner da Transparência"
+
+#: ../camaraminasnovas/widget-transparencia-banner.php:8
+msgid "Shows Transparencia website banner"
+msgstr "Exibe o banner do site da Transparência"
+
+#: ../camaraminasnovas/widget-transparencia-banner.php:20
+msgid "Transparencia"
+msgstr "Transparência"
+
+#: ../citypress-council/404.php:5
+msgid "Please, try the following options"
+msgstr "Por favor, tente as seguintes opções"
+
+#: ../citypress-council/loop-page-audio.php:19
+msgid "From"
+msgstr "De"
+
+#: ../citypress-council/loop-page-audio.php:28
+msgid "Download"
+msgstr "Baixar"
+
+#: ../citypress-council/loop-page-audio.php:31
+#: ../citypress-council/loop-page-audio.php:33
+msgid "Edit"
+msgstr "Editar"
+
+#: ../citypress-council/page-audio.php:5
+msgid "Audio Listing Page"
+msgstr "Listagem de áudios"
+
+#: ../citypress-council/page-video.php:5
+msgid "Video Listing Page"
+msgstr "Listagem de vídeos"
+
+#: ../citypress-council/search.php:21
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: ../citypress-council/searchform.php:6
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: ../citypress-council/sidebar-advanced-search.php:3
+msgid "Detailed search"
+msgstr "Pesquisa detalhada"
+
+#: ../citypress-council/sidebar-advanced-search.php:5
+msgid "What?"
+msgstr "O que?"
+
+#: ../citypress-council/sidebar-advanced-search.php:9
+msgid "Where?"
+msgstr "Onde?"
+
+#: ../citypress-council/sidebar-advanced-search.php:11
+msgid "Whole website"
+msgstr "Em todo o site"
+
+#: ../citypress-council/sidebar-advanced-search.php:12
+msgid "People"
+msgstr "Pessoas"
+
+#: ../citypress-council/sidebar-advanced-search.php:17
+msgid "Search again"
+msgstr "Pesquisar de novo"
+
+#: ../citypress-council/src/citypress/Theme.php:12
+msgid "Global Navigation Menu"
+msgstr "Menu de navegação global"
+
+#: ../citypress-council/src/citypress/Theme.php:13
+msgid "Meeting Related Navigation Menu"
+msgstr "Menu de navegação relacionado a reunião"
+
+#: ../citypress-council/src/citypress/metaboxes/meeting-meta.php:20
+msgid "Meeting Data"
+msgstr "Dados da reunião"
+
+#: ../citypress-council/src/citypress/metaboxes/notice-meta.php:20
+msgid "Notice Data"
+msgstr "Dados do edital"
+
+#: ../citypress-council/src/citypress/metaboxes/notice-meta.php:39
+#: ../citypress-council/src/citypress/metaboxes/notice-meta.php:43
+msgid "Deadline for submission"
+msgstr "Prazo para entrega"
+
+#: ../citypress-council/src/citypress/metaboxes/person-meta.php:13
+msgid "Person Info"
+msgstr "Informações sobre a pessoa"
+
+#: ../citypress-council/src/citypress/metaboxes/person-meta.php:36
+msgid "Birthday"
+msgstr "Aniversário"
+
+#~ msgid "Edit this meeting"
+#~ msgstr "Editar esta reunião"
+
+#~ msgid "Meeting audio"
+#~ msgstr "Áudio da reunião"
+
+#~ msgid "Watch"
+#~ msgstr "Assistir"
+
+#~ msgid "Events"
+#~ msgstr "Eventos"
+
+#~ msgid "Event"
+#~ msgstr "Evento"
+
+#~ msgid "Parent Event:"
+#~ msgstr "Evento relacionado:"
+
+#~ msgid "All Events"
+#~ msgstr "Todos os eventos"
+
+#~ msgid "View Event"
+#~ msgstr "Ver evento"
+
+#~ msgid "Add New Event"
+#~ msgstr "Adicionar novo evento"
+
+#~ msgid "Add Event"
+#~ msgstr "Adicionar evento"
+
+#~ msgid "Edit Event"
+#~ msgstr "Editar evento"
+
+#~ msgid "Update Event"
+#~ msgstr "Atualizar evento"
+
+#~ msgid "Search Event"
+#~ msgstr "Pesquisar eventos"
+
+#~ msgid "Event not found"
+#~ msgstr "Evento não encontrado"
+
+#~ msgid "Event not found in Trash"
+#~ msgstr "Evento não encontrado no Lixo"
+
+#~ msgid "Events (that are not Meetings)"
+#~ msgstr "Eventos (não inclui reuniões)"
+
+#~ msgid "Meeting"
+#~ msgstr "Reunião"
+
+#~ msgid "Parent Meeting:"
+#~ msgstr "Reunião principal:"
+
+#~ msgid "All Meetings"
+#~ msgstr "Todas as reuniões"
+
+#~ msgid "View Meeting"
+#~ msgstr "Ver reunião"
+
+#~ msgid "Add New Meeting"
+#~ msgstr "Adicionar nova reunião"
+
+#~ msgid "Add New"
+#~ msgstr "Adicionar novo(a)"
+
+#~ msgid "Search Meeting"
+#~ msgstr "Pesquisar reuniões"
+
+#~ msgid "Meeting not found"
+#~ msgstr "Reunião não encontrada"
+
+#~ msgid "Meeting not found in Trash"
+#~ msgstr "Reunião não encontrada no Lixo"
+
+#~ msgid "meeting"
+#~ msgstr "reunião"
+
+#~ msgid "Store meetings on your website"
+#~ msgstr "Armazena reuniões no site"
+
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%2$s %1$s"
+
+#~ msgid "Statement"
+#~ msgstr "Indicação"
+
+#~ msgid "Parent Statement:"
+#~ msgstr "Indicação relacionada:"
+
+#~ msgid "All Statements"
+#~ msgstr "Todas as indicações"
+
+#~ msgid "View Statement"
+#~ msgstr "Ver indicação"
+
+#~ msgid "Add New Statement"
+#~ msgstr "Adicionar nova indicação"
+
+#~ msgid "Add Statement"
+#~ msgstr "Adicionar indicação"
+
+#~ msgid "Update Statement"
+#~ msgstr "Atualizar indicação"
+
+#~ msgid "Search Statement"
+#~ msgstr "Pesquisar indicações"
+
+#~ msgid "Statement not found"
+#~ msgstr "Nenhuma indicação encontrada"
+
+#~ msgid "Statement not found in Trash"
+#~ msgstr "Nenhuma indicação encontrada no Lixo"
+
+#~ msgid "Statements made ​​by councilors."
+#~ msgstr "Indicações feitas por vereadores."
+
+#~ msgid "Committees"
+#~ msgstr "Comissões"
+
+#~ msgid "Committee"
+#~ msgstr "Comissão"
+
+#~ msgid "All Committees"
+#~ msgstr "Todas as Comissões"
+
+#~ msgid "Parent Committee"
+#~ msgstr "Comissão relacionada"
+
+#~ msgid "Parent Committees:"
+#~ msgstr "Comissões relacionadas:"
+
+#~ msgid "New Committee"
+#~ msgstr "Nova Comissão"
+
+#~ msgid "Add New Committee"
+#~ msgstr "Adicionar nova Comissão"
+
+#~ msgid "Edit Committee"
+#~ msgstr "Editar Comissão"
+
+#~ msgid "Update Committee"
+#~ msgstr "Atualizar Comissão"
+
+#~ msgid "Separate committees with commas"
+#~ msgstr "Separe as Comissões com vírgulas"
+
+#~ msgid "Search Committees"
+#~ msgstr "Pesquisar Comissões"
+
+#~ msgid "Add or remove committees"
+#~ msgstr "Adicionar ou remover Comissões"
+
+#~ msgid "Choose from the most used committees"
+#~ msgstr "Escolha entre as Comissões mais usadas"
+
+#~ msgid "Committee Not Found"
+#~ msgstr "Comissão não encontrada"
+
+#~ msgid "Government Branches"
+#~ msgstr "Poderes"
+
+#~ msgid "Government Branch"
+#~ msgstr "Poder"
+
+#~ msgid "All Branches"
+#~ msgstr "Todos os Poderes"
+
+#~ msgid "Parent Branch"
+#~ msgstr "Poder relacionado"
+
+#~ msgid "Parent Branch:"
+#~ msgstr "Poder relacionado:"
+
+#~ msgid "New Branch"
+#~ msgstr "Novo Poder"
+
+#~ msgid "Add New Branch"
+#~ msgstr "Adicionar novo poder"
+
+#~ msgid "Edit Branch"
+#~ msgstr "Editar Poder"
+
+#~ msgid "Update Branch"
+#~ msgstr "Atualizar poder"
+
+#~ msgid "Separate branches with commas"
+#~ msgstr "Separe os poderes com vírgulas"
+
+#~ msgid "Search Branches"
+#~ msgstr "Pesquisar poderes"
+
+#~ msgid "Add or remove branches"
+#~ msgstr "Adicionar ou remover poderes"
+
+#~ msgid "Choose from the most used branches"
+#~ msgstr "Escolha entre os poderes mais usados"
+
+#~ msgid "Branch Not Found"
+#~ msgstr "Poder não encontrado"
+
+#~ msgid "Law categories"
+#~ msgstr "Classificação"
+
+#~ msgid ""
+#~ "Law categories allow you and all website users to filter laws and find it "
+#~ "from a better way"
+#~ msgstr ""
+#~ "Com as categories de legislações, os usuários do site podem pesquisar por "
+#~ "leis de uma forma mais fácil"
+
+#~ msgid "Law types"
+#~ msgstr "Tipos de Leis"
+
+#~ msgid ""
+#~ "Law types allow you and all website users to filter laws and find it from "
+#~ "a better way"
+#~ msgstr ""
+#~ "Tipos de legislação permitem aos usuários do site pesquisar por leis de "
+#~ "uma forma mais fácil"
+
+#~ msgid "Legislatures"
+#~ msgstr "Legislaturas"
+
+#~ msgid "All Legislatures"
+#~ msgstr "Todas as legislaturas"
+
+#~ msgid "Parent Legislature"
+#~ msgstr "Legislatura relacionada"
+
+#~ msgid "Parent Legislature:"
+#~ msgstr "Legislatura relacionada:"
+
+#~ msgid "New Legislature"
+#~ msgstr "Nova legislatura"
+
+#~ msgid "Add New Legislature"
+#~ msgstr "Adicionar nova legislatura"
+
+#~ msgid "Edit Legislature"
+#~ msgstr "Editar legislatura"
+
+#~ msgid "Update Legislature"
+#~ msgstr "Atualizar legislatura"
+
+#~ msgid "Separate legislatures with commas"
+#~ msgstr "Separe as legislaturas com vírgulas"
+
+#~ msgid "Search Legislatures"
+#~ msgstr "Pesquisar legislaturas"
+
+#~ msgid "Add or remove legislatures"
+#~ msgstr "Adicionar ou remover legislaturas"
+
+#~ msgid "Choose from the most used legislatures"
+#~ msgstr "Escolha entre as legislaturas mais usadas"
+
+#~ msgid "Legislature Not Found"
+#~ msgstr "Legislatura não encontrada"
+
+#~ msgid "Meeting Types"
+#~ msgstr "Tipos de reunião"
+
+#~ msgid "Meeting Type"
+#~ msgstr "Tipo de reunião"
+
+#~ msgid "All Types"
+#~ msgstr "Todos os tipos"
+
+#~ msgid "Parent Type"
+#~ msgstr "Tipo relacionado"
+
+#~ msgid "Parent Type:"
+#~ msgstr "Tipo relacionado:"
+
+#~ msgid "New Meeting Type"
+#~ msgstr "Novo tipo de reunião"
+
+#~ msgid "Add New Type"
+#~ msgstr "Adicionar novo tipo"
+
+#~ msgid "Update Type"
+#~ msgstr "Atualizar tipo"
+
+#~ msgid "Separate types with commas"
+#~ msgstr "Separe os tipos com vírgulas"
+
+#~ msgid "Search Types"
+#~ msgstr "Pesquisar tipos"
+
+#~ msgid "Add or remove types"
+#~ msgstr "Adicionar ou remover tipos"
+
+#~ msgid "Choose from the most used types"
+#~ msgstr "Escolha entre os tipos mais usados"
+
+#~ msgid "Type Not Found"
+#~ msgstr "Tipo não encontrado"
+
+#~ msgid "Notice Categories"
+#~ msgstr "Categorias de editais"
+
+#~ msgid "All Notice Categories"
+#~ msgstr "Todas as categorias"
+
+#~ msgid "Parent Notice Category"
+#~ msgstr "Categoria-mãe"
+
+#~ msgid "Parent Notice Category:"
+#~ msgstr "Categoria-mãe:"
+
+#~ msgid "New Notice Category"
+#~ msgstr "Nova categoria"
+
+#~ msgid "Add New Notice Category"
+#~ msgstr "Adicionar nova categoria"
+
+#~ msgid "Edit Notice Category"
+#~ msgstr "Editar categoria"
+
+#~ msgid "Update Notice Category"
+#~ msgstr "Atualizar categoria"
+
+#~ msgid "Separate categories with commas"
+#~ msgstr "Separe as categorias com vírgulas"
+
+#~ msgid "Search Notice Categories"
+#~ msgstr "Pesquisar categorias"
+
+#~ msgid "Add or remove notice categories"
+#~ msgstr "Adicionar ou remover categorias"
+
+#~ msgid "Choose from the most used notice categories"
+#~ msgstr "Escolher entre as categorias mais usadas"
+
+#~ msgid "Notice Category Not Found"
+#~ msgstr "Categoria não encontrada"
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid ""
+#~ "People categories allow you to show certain people at certain areas of "
+#~ "the site"
+#~ msgstr ""
+#~ "Com as categorias de pessoas, você pode exibir um conjunto específico de "
+#~ "pessoas em certas áreas do site"
+
+#~ msgid "Presiding Board Roles"
+#~ msgstr "Cargos da Mesa Diretora"
+
+#~ msgid "Presiding Board Role"
+#~ msgstr "Cargo da Mesa Diretora"
+
+#~ msgid "Presiding Board"
+#~ msgstr "Mesa Diretora"
+
+#~ msgid "All Presiding Board Roles"
+#~ msgstr "Todos os cargos da Mesa Diretora"
+
+#~ msgid "Parent Presiding Board Role"
+#~ msgstr "Cargo da Mesa Diretora relacionado"
+
+#~ msgid "Parent Presiding Board Role:"
+#~ msgstr "Cargo da Mesa Diretora relacionado:"
+
+#~ msgid "New Presiding Board Role"
+#~ msgstr "Novo cargo da Mesa Diretora"
+
+#~ msgid "Add New Presiding Board Role"
+#~ msgstr "Adicionar novo cargo da Mesa Diretora"
+
+#~ msgid "Edit Presiding Board Role"
+#~ msgstr "Editar cargo da Mesa Diretora"
+
+#~ msgid "Update Presiding Board Role"
+#~ msgstr "Atualizar cargo da Mesa Diretora"
+
+#~ msgid "Separate roles with commas"
+#~ msgstr "Separe os cargos com vírgulas"
+
+#~ msgid "Search Presiding Board Roles"
+#~ msgstr "Pesquisar cargos da Mesa Diretora"
+
+#~ msgid "Add or remove Presiding Board roles"
+#~ msgstr "Adicionar ou remover cargos da Mesa Diretora"
+
+#~ msgid "Choose from the most used roles"
+#~ msgstr "Escolha entre os cargos mais usados"
+
+#~ msgid "Presiding Board Role Not Found"
+#~ msgstr "Cargo não encontrado"
+
+#~ msgid "Date of opening of bid"
+#~ msgstr "Data de abertura da licitação"
+
+#~ msgid "Receive updates about the City Council in your email"
+#~ msgstr "Receba novidade sobre a Câmara em seu e-mail"
+
+#~ msgid "Enter your email"
+#~ msgstr "Informe seu e-mail"
+
+#~ msgid "Email address"
+#~ msgstr "Endereço de e-mail"
+
+#~ msgid "Register"
+#~ msgstr "Cadastrar"
+
+#~ msgid "Meeting info"
+#~ msgstr "Informações sobre a reunião"
+
+#~ msgid "Date:"
+#~ msgstr "Data:"
+
+#~ msgid "See also"
+#~ msgstr "Veja também"
+
+#~ msgid "Footer"
+#~ msgstr "Rodapé"
+
+#~ msgid "Directions"
+#~ msgstr "Direções"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Search results for <b>%s</b>"
+#~ msgstr "Resultados da pesquisa por <b>%s</b>"
+
+#~ msgid "We did not find the content you were looking for."
+#~ msgstr "Nós não conseguimos encontrar o conteúdo que você está procurando"
+
+#~ msgid "Go to homepage"
+#~ msgstr "Ir para a página inicial"
+
+#~ msgid "Online now"
+#~ msgstr "No ar"
+
+#~ msgid "TV"
+#~ msgstr "TV"
+
+#~ msgid "Radio"
+#~ msgstr "Rádio"
+
+#~ msgid "Search this site…"
+#~ msgstr "Pesquisar neste site…"
+
+#~ msgid "Audio files"
+#~ msgstr "Arquivos de áudio"
